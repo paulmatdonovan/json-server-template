@@ -4,6 +4,20 @@
       "id": 1,
       "username": "Paul",
       "accountType": "pro"
+    },
+    {
+      "user": {
+        "username": "roger",
+        "accountType": "Tech Enthusiast"
+      },
+      "id": 2
+    },
+    {
+      "user": {
+        "username": "APhil",
+        "accountType": "Tech Enthusiast"
+      },
+      "id": 3
     }
   ],
   "products": [
